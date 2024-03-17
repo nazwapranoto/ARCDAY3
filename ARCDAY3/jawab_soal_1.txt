@@ -1,0 +1,3 @@
+Library axios adalah library javascript yang digunakan untuk melakukan permintaan HTTP disisi klien (clent-side).
+Axios digunakan untuk membuat HTTP request dari browser web dan Node.js. Library ini sangat ringan dan mudah 
+digunakan yang dirancang untuk bekerja dengan baik di web modern.
